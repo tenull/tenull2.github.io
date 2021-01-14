@@ -7,5 +7,7 @@ p {
 }
 
 .container {
+  border: solid thin;
   border-color: green;
+  
 }
