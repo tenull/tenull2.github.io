@@ -1,3 +1,7 @@
- .asteroid big, .asteroid b329 big { 
-    color: blue;
-  }
+p {
+  color:blue;
+}
+
+.asteroid b329 big {
+  color:blue
+}
