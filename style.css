@@ -1,13 +1,15 @@
 p {
   color:blue;
+  background-color: yellow;
 }
 
 #b329 {
   color:blue;
+  font-weight: bold;
 }
 
 .container {
   border: solid thin;
   border-color: green;
-  
+  font-weight: bold;
 }
