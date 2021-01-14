@@ -1,6 +1,8 @@
 #b550 {
   color:blue;
   background : yellow;
+  font-weight: normal;
+
 }
 
 #b329 {
@@ -9,14 +11,18 @@
 }
 
 .container {
-  border: solid thin;
-  border-color: green;
+ 
   font-weight: bold;
-  width: 450px;
+  width: 250px;
 
 }
 #b325 {
   border: solid thin;
   border-color: green;
-  width: 450px;
+  width: 250px;
+}
+.b326 {
+  border: solid thin;
+  border-color: green;
+  width: 250px;
 }
